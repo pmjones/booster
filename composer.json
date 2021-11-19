@@ -1,0 +1,11 @@
+{
+    "name": "booster/project",
+    "description": "The Booster project.",
+    "autoload": {
+        "psr-4": {
+            "Booster\\Project\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
